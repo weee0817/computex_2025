@@ -11,7 +11,7 @@ Notes from Jensen Huang’s keynote at Computex Taipei 2025
 ### 1.2 Evolution of Data Centers and AI Factories
 - **Data Center Transformation**: Traditional server farms are evolving into integrated AI data centers, where “units of computing” shift from individual servers to system-level nodes optimized for AI workloads.
 - **Mellanox Integration**: Since acquiring Mellanox in 2019, NVIDIA has integrated [high-speed networking](#high-speed-networking) to support AI traffic, underscoring the importance of end-to-end system performance.
-- **AI Factories**: Huang coined “AI Factories” to describe clusters of AI-optimized data centers that generate AI models (tokens) at scale, streamlining deployment and consumption.
+- **AI Factories**: describe clusters of AI-optimized data centers that generate tokens at scale, streamlining deployment and consumption.
 
 ---
 
@@ -19,7 +19,7 @@ Notes from Jensen Huang’s keynote at Computex Taipei 2025
 
 ### 2.1 CUDA-X and Specialized Computing
 - **CUDA-X Libraries** form the foundation of NVIDIA’s accelerated computing platform, enabling developers to exploit GPU parallelism for AI tasks rather than relying on general-purpose CPUs.
-- **Not General-Purpose Computing**: Huang highlighted that true acceleration requires task-specific libraries; GPUs with optimized CUDA-X deliver orders-of-magnitude speedups on AI workloads.
+- **Not General-Purpose Computing**: true acceleration requires task-specific libraries; GPUs with optimized CUDA-X deliver orders-of-magnitude speedups on AI workloads.
 
 ### 2.2 DLSS and Consumer AI Hardware
 - **DLSS (Deep Learning Super Sampling)** lets developers render only ~10% of pixels and use AI to reconstruct the full image, boosting frame rates without compromising visual fidelity.
@@ -77,7 +77,7 @@ Notes from Jensen Huang’s keynote at Computex Taipei 2025
 
 ## 8. Strategic Announcements
 
-**NVIDIA Constellation**: Huang announced a new NVIDIA campus (“Constellation”) in Beitou–Shilin, Taipei, reinforcing long-term investment in Taiwan’s AI ecosystem.
+**NVIDIA Constellation**: in Beitou–Shilin, Taipei, reinforcing long-term investment in Taiwan’s AI ecosystem.
 
 ---
 ### High-Speed Networking
